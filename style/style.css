@@ -55,6 +55,7 @@ nav ul li a {
   justify-content: space-between;
   margin-left: 230px;
   margin-right: 38px;
+  align-items: center;
 }
 
 .banner-content {
@@ -64,11 +65,14 @@ nav ul li a {
   color: #474747;
   font-size: 45px;
   font-weight: 600;
+  margin-bottom: 0px;
 }
 .banner-title {
   color: #181818;
   font-size: 85px;
   font-weight: 700px;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
 .banner-description {
   color: #757575;
