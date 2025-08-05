@@ -42,9 +42,13 @@ nav {
   font-size: 18px;
   font-weight: 400;
   color: #757575;
+  margin-bottom: 30px;
 }
 .bg-secoundary {
   background-color: #fff8f3;
+}
+.text-center {
+  text-align: center;
 }
 /* navigation styles */
 nav ul {
@@ -120,11 +124,40 @@ main {
   margin-top: 130px;
   margin-bottom: 130px;
 }
-.item-descrption {
-  font-size: 20px;
-  font-weight: 700;
-}
+
 .about-items {
   display: flex;
   justify-content: space-around;
+}
+.item-descrption {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 0px;
+}
+.item-title {
+  font-size: 20px;
+  font-weight: 400;
+  color: #757575;
+  margin-bottom: 0px;
+}
+.skills-container {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 130px;
+}
+.skill {
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.skill-description {
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+}
+.skill-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #181818;
+  margin-bottom: 0px;
 }
