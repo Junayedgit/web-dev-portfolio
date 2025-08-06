@@ -186,11 +186,6 @@ main {
   margin-top: 100px;
   margin-bottom: 100px;
 }
-.resume-btn {
+.resume-section {
   margin-bottom: 100px;
-  width: 200px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-inline: auto;
 }
