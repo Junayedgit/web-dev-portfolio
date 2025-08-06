@@ -161,3 +161,28 @@ main {
   color: #181818;
   margin-bottom: 0px;
 }
+.education-title {
+  font-size: 30px;
+  font-weight: 700;
+}
+.education-level-title {
+  font-size: 25px;
+  font-weight: 700;
+}
+.education-institution {
+  font-size: 20px;
+  font-weight: 600;
+  color: #757575;
+}
+.education-description {
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+}
+.section-colum {
+  display: flex;
+  justify-content: space-between;
+  gap: 70px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
